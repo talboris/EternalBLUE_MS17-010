@@ -6,7 +6,8 @@ import os
 import sys
 
 #MS17-010 exploit
-# open nc liestener on 443
+# open nc listener on 443
+#Change LHOST to your IP in def msfven64 and msfven86 functions
 #run this script once, if u didnt a shell it means the system need to restart so execute again after a minute
 
 
